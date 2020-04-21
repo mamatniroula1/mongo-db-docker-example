@@ -1,0 +1,9 @@
+/Users/mamat/IdeaProjects/spring-boot-mongodb/src/main/java/guru/springframework/repositories/ProductRepository.java
+/Users/mamat/IdeaProjects/spring-boot-mongodb/src/main/java/guru/springframework/domain/Product.java
+/Users/mamat/IdeaProjects/spring-boot-mongodb/src/main/java/guru/springframework/services/ProductServiceImpl.java
+/Users/mamat/IdeaProjects/spring-boot-mongodb/src/main/java/guru/springframework/commands/ProductForm.java
+/Users/mamat/IdeaProjects/spring-boot-mongodb/src/main/java/guru/springframework/services/ProductService.java
+/Users/mamat/IdeaProjects/spring-boot-mongodb/src/main/java/guru/springframework/controllers/ProductController.java
+/Users/mamat/IdeaProjects/spring-boot-mongodb/src/main/java/guru/springframework/SpringBootMongodbApplication.java
+/Users/mamat/IdeaProjects/spring-boot-mongodb/src/main/java/guru/springframework/converters/ProductFormToProduct.java
+/Users/mamat/IdeaProjects/spring-boot-mongodb/src/main/java/guru/springframework/converters/ProductToProductForm.java
